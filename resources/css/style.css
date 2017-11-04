@@ -67,6 +67,7 @@ nav span {
   padding-bottom: 15px;
 }
 
+
 .featured {
   display: flex;
   flex-direction: column;
@@ -137,7 +138,11 @@ nav span {
   align-items: center;
   width: 1000px;
   height: 200px;
+}
+
+.contact h2, .contact h5, .contact p {
   text-align: center;
+  width: 100%;
 }
 
 footer {
