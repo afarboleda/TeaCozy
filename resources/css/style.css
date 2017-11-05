@@ -28,7 +28,6 @@ a {
   display: flex;
   margin-left: 10px;
   align-items: center;
-
 }
 
 .logo img {
@@ -74,7 +73,6 @@ nav span {
   align-items: center;
   width: 1000px;
   padding-top: 50px;
-
 }
 
 .featured .text {
@@ -127,7 +125,6 @@ nav span {
   margin:15px 20px;
   opacity: 1;
   text-align: center;
-
 }
 
 .contact {
