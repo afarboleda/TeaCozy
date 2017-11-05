@@ -64,7 +64,6 @@ nav span {
   background-color: black;
   width: 1200px;
   height: 125px;
-  text-align: center;
   padding-bottom: 15px;
 }
 
@@ -114,7 +113,6 @@ nav span {
   margin-top: 50px;
   padding-top: 30px;
   padding-bottom: 75px;
-  border: 1px solid white;
 }
 
 .locations .content {
@@ -124,7 +122,6 @@ nav span {
 
 .locations .content div{
   border: 1px solid white;
-  height: 300px;
   width: 300px;
   background-color: black;
   margin:15px 20px;
@@ -140,8 +137,6 @@ nav span {
   width: 1000px;
   height: 200px;
 }
-
-
 
 footer {
   margin-top: 45px;
